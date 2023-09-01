@@ -4,7 +4,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Future Full-stack Developer
 ---------------------------
 
-I am looking for my first job in IT. I am highly motivated, willing to learn and improve my qualifications. I am currently focusing on JavaScript.
+I am looking for my first IT job. I am highly motivated, willing to learn and improve my qualifications. I am currently focusing on JavaScript.
 
 * 🌍  I'm based in Kraków
 * ✉️  You can contact me at [iggor018@gmail.com](mailto:iggor018@gmail.com)
