@@ -1,0 +1,99 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <meta name="description" content="My portfolio" />
+    <meta name="keywords" content="Igor Kaczorek" />
+    <meta name="author" content="Igor Kaczorek" />
+    <title>My portfolio</title>
+    <link rel="stylesheet" type="text/css" href="style.css" />
+  </head>
+  <body>
+    <!-- --------header-------- -->
+
+    <main id="header">
+      <section class="box">
+        <nav>
+          <a href="#" class="logo"><span>I</span>gor.</a>
+          <ul id="menu">
+            <li><a href="#header" class="rainbow">Home</a></li>
+            <li><a href="#about">About</a></li>
+            <li><a href="#skills">Skills</a></li>
+            <li><a href="#portfolio">Portfolio</a></li>
+            <li><a href="#contact">Contact</a></li>
+            <img
+              class="icons"
+              onclick="closemenu()"
+              src="https://img.icons8.com/sf-black-filled/64/ffd700/x.png"
+            />
+          </ul>
+          <img
+            class="icons"
+            onclick="openmenu()"
+            src="https://img.icons8.com/sf-black/64/ffd700/menu.png"
+          />
+        </nav>
+      </section>
+
+      <!-- --------home-------- -->
+
+      <section id="home">
+        <div class="box">
+          <div class="home-content">
+            <div class="home-text">
+              <h3>Hi, My name is Kaczorek</h3>
+              <h1><span>Igor</span> Kaczorek</h1>
+              <p id="animation">Future Full-stack Developer</p>
+            </div>
+            <div class="myphoto">
+              <img src="images/myphoto.png" />
+            </div>
+          </div>
+        </div>
+      </section>
+    </main>
+
+    <!-- -----------about----------- -->
+
+    <section id="about">
+      <h2 data-text="Work in progress...">Work in progress...</h2>
+    </section>
+
+    <!-- -----------skills----------- -->
+
+    <section id="skills">
+      <a
+        ><img
+          width="512"
+          height="512"
+          src="https://img.icons8.com/nolan/512/java-coffee-cup-logo.png"
+          alt="java-coffee-cup-logo"
+      /></a>
+    </section>
+
+    <!-- -----------portfolio----------- -->
+
+    <section id="portfolio">
+      <ul class="dynamic-txts">
+        <li>passion</li>
+        <li>knowledge</li>
+        <li>determination</li>
+        <li>programming</li>
+      </ul>
+    </section>
+
+    <!-- -----------contact----------- -->
+
+    <section id="contact">
+      <div class="inner">
+        <p>To Be Continued</p>
+      </div>
+    </section>
+
+    <!-- --------script-------- -->
+
+    <script src="script/script.js"></script>
+  </body>
+</html>
