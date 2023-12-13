@@ -1,4 +1,4 @@
-# 💫 About Me:
+<p align="center"># 💫 About Me:
 I am looking for my first IT job. I am highly motivated, willing to learn and improve my qualifications.
 
 
@@ -22,3 +22,4 @@ I am looking for my first IT job. I am highly motivated, willing to learn and im
 [![](https://visitcount.itsvg.in/api?id=MadridistaPL&icon=2&color=10)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+</p>
