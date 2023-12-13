@@ -1,4 +1,4 @@
-# 💫 About Me:
+<h1 align="cente"r># 💫 About Me:</h1>
 I am looking for my first IT job. I am highly motivated, willing to learn and improve my qualifications.
 
 
